@@ -1,0 +1,26 @@
+{
+  "name": "fully-functional-login-page",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000F\u0000u\u0000l\u0000l\u0000y\u0000-\u0000F\u0000u\u0000n\u0000c\u0000t\u0000i\u0000o\u0000n\u0000a\u0000l\u0000-\u0000L\u0000o\u0000g\u0000i\u0000n\u0000-\u0000P\u0000a\u0000g\u0000e\u0000\r\u0000 \u0000",
+  "main": "backend/server.js",
+  "scripts": {
+    "dev" : "nodemon backend/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mailtrap": "^3.4.0",
+    "mongoose": "^8.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
